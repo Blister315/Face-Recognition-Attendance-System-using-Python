@@ -1,4 +1,6 @@
-Project flow & explaination
+Project flow & explaination:
+
+
 After running the project, click on the Student Details button. Then, fill in the student details so that when the system recognizes your face, it can display your information while identifying you. These details will also be stored in the database.
 
 While filling in the details, you will see two options: Take Photo Sample and No Photo Sample. Choose the No Photo Sample option. After entering the details, click on the Save button. Your details will then appear on the blank space on the right side.
