@@ -19,26 +19,37 @@ Finally, go back to the home screen and click on the Attendance button. In the A
 • Programming Language: Python
 
 • Libraries/Frameworks:
+
 • OpenCV (for image processing)
+
 • NumPy and Pandas (for data handling)
+
 • Tkinter (for the user interface)
 
 • Database: MySQL (for storing attendance records)
 
 • Hardware Requirements:
+
 • Webcam for face capture
 
 3. Key Features
+   
 • Real-Time Recognition: Detects and identifies faces in real-time.
+
 • Database Integration: Stores attendance records securely.
+
 • Scalability: Allows adding new users to the system seamlessly.
+
 • Report Generation: Generates detailed attendance reports in Excel
 format.
 
 5. Technical Highlights
+   
 • Face Detection: Utilizes Haar Cascade Classifier for real-time face
 detection.
+
 • Face Recognition: LBPH algorithm for identifying faces accurately.
+
 • Real-time Updates: Attendance logs are updated live in the
 database.
 
